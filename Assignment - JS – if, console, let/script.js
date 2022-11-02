@@ -1,8 +1,7 @@
 let response = "";
 let toppings,isTopping = "";
 
-function order(clicked_id)
-  {
+function order(clicked_id){
       response=clicked_id;
         completeOrder();
   }
